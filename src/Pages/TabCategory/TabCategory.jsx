@@ -1,10 +1,23 @@
+import SubCategory from "../SubCategory/SubCategory";
 
 
-const TabCategory = () => {
+
+
+// eslint-disable-next-line react/prop-types
+const TabCategory = ({items}) => {
+
     return (
-        <div>
-            
-        </div>
+        <div className='grid md:grid-cols-4 gap-5'>
+       {
+        // eslint-disable-next-line react/prop-types
+        items.map(item=><SubCategory
+        key={item._id}
+        item={item}
+
+        ></SubCategory>)
+       }
+        
+    </div>
     );
 };
 

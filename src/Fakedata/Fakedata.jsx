@@ -10,7 +10,8 @@ const GalleryItems = [
         "date": "Jan9-16",
         "category": "tropical",
         "price": "$513",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'5.0'
     },
     {
         "_id": "602c155b2c4774f05c36eeaa",
@@ -21,7 +22,8 @@ const GalleryItems = [
         "date": "Jan3-10",
         "category": "tropical",
         "price": "$105",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'5.0'
     },
     {
         "_id": "603c155b2c4774f05c36eeaa",
@@ -32,7 +34,8 @@ const GalleryItems = [
         "date": "Oct 27-Nov 1",
         "category": "tropical",
         "price": "$520",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'5.0'
     },
     {
         "_id": "604c155b2c4774f05c36eeaa",
@@ -43,7 +46,8 @@ const GalleryItems = [
         "date": "Oct -Nov 4",
         "category": "tropical",
         "price": "$447",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'5.0'
     },
     {
         "_id": "605c155b2c4774f05c36eeaa",
@@ -54,7 +58,8 @@ const GalleryItems = [
         "date": "Sep 1-6",
         "category": "tropical",
         "price": "$197",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'5.0'
     },
     {
         "_id": "606c155b2c4774f05c36eeaa",
@@ -65,7 +70,8 @@ const GalleryItems = [
         "date": "Sep 18-23",
         "category": "tropical",
         "price": "$226",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'5.0'
     },
     {
         "_id": "607c155b2c4774f05c36eeaa",
@@ -76,7 +82,8 @@ const GalleryItems = [
         "date": "Sep 10-16",
         "category": "tropical",
         "price": "$810",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "608c155b2c4774f05c36eeaa",
@@ -87,7 +94,8 @@ const GalleryItems = [
         "date": "Sep 1-6",
         "category": "tropical",
         "price": "$1318",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "609c155b2c4774f05c36eeaa",
@@ -98,7 +106,8 @@ const GalleryItems = [
         "date": "Sep 1-6",
         "category": "tropical",
         "price": "$380",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "610c155b2c4774f05c36eeaa",
@@ -109,7 +118,8 @@ const GalleryItems = [
         "date": "Sep 24-29",
         "category": "tropical",
         "price": " $123",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "611c155b2c4774f05c36eeaa",
@@ -120,7 +130,8 @@ const GalleryItems = [
         "date": "Sep 1- 6",
         "category": "tropical",
         "price": " $2475",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "612c155b2c4774f05c36eeaa",
@@ -131,7 +142,8 @@ const GalleryItems = [
         "date": "Sep 1-6",
         "category": "tropical",
         "price": " $913",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     //......................... Rooms Category..........
     {
@@ -143,7 +155,8 @@ const GalleryItems = [
         "date": "Sep 14-19",
         "category": "Rooms",
         "price": "$53",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "614c155b2c4774f05c36eeaa",
@@ -154,7 +167,8 @@ const GalleryItems = [
         "date": "Sep 8-13",
         "category": "Rooms",
         "price": "$89",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "615c155b2c4774f05c36eeaa",
@@ -165,7 +179,8 @@ const GalleryItems = [
         "date": "Sep 5-10",
         "category": "Rooms",
         "price": "$100",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "616c155b2c4774f05c36eeaa",
@@ -176,7 +191,8 @@ const GalleryItems = [
         "date": "Sep 11-16",
         "category": "Rooms",
         "price": "$73",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "617c155b2c4774f05c36eeaa",
@@ -186,7 +202,8 @@ const GalleryItems = [
         "date": "Sep 22-27",
         "category": "Rooms",
         "price": "$142",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "618c155b2c4774f05c36eeaa",
@@ -197,7 +214,8 @@ const GalleryItems = [
         "date": "Sepn 24-29",
         "category": "Rooms",
         "price": "$142",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "619c155b2c4774f05c36eeaa",
@@ -208,7 +226,8 @@ const GalleryItems = [
         "date": "Sep 1-6",
         "category": "Rooms",
         "price": "$93",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "620c155b2c4774f05c36eeaa",
@@ -219,7 +238,8 @@ const GalleryItems = [
         "date": "Sep 15-20",
         "category": "Rooms",
         "price": "$218",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "621c155b2c4774f05c36eeaa",
@@ -230,7 +250,8 @@ const GalleryItems = [
         "date": "Sep 5-11",
         "category": "Rooms",
         "price": "$18",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "622c155b2c4774f05c36eeaa",
@@ -241,7 +262,8 @@ const GalleryItems = [
         "date": "Sep 5-10",
         "category": "Rooms",
         "price": "$152",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "623c155b2c4774f05c36eeaa",
@@ -252,7 +274,8 @@ const GalleryItems = [
         "date": "Sep 9-14",
         "category": "Rooms",
         "price": "$70",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "624c155b2c4774f05c36eeaa",
@@ -263,7 +286,8 @@ const GalleryItems = [
         "date": "Sep 17-22",
         "category": "Rooms",
         "price": "$82",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     //......................... Cabins Category..........
 
@@ -276,7 +300,8 @@ const GalleryItems = [
         "date": "Sep 1-6",
         "category": "Cabins",
         "price": " $83",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "626c155b2c4774f05c36eeaa",
@@ -287,7 +312,8 @@ const GalleryItems = [
         "date": "Sep 15-20 ",
         "category": "Cabins",
         "price": "$99",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "627c155b2c4774f05c36eeaa",
@@ -298,7 +324,8 @@ const GalleryItems = [
         "date": "Sep 1-6 ",
         "category": "Cabins",
         "price": "$27",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "628c155b2c4774f05c36eeaa",
@@ -309,7 +336,8 @@ const GalleryItems = [
         "date": "Sep 1-6",
         "category": "Cabins",
         "price": "$276",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "629c155b2c4774f05c36eeaa",
@@ -320,7 +348,8 @@ const GalleryItems = [
         "date": "Sep 23-28 ",
         "category": "Cabins",
         "price": "$480 ",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "630c155b2c4774f05c36eeaa",
@@ -331,7 +360,8 @@ const GalleryItems = [
         "date": "Sep 1-6",
         "category": "Cabins",
         "price": "$1305 ",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "631c155b2c4774f05c36eeaa",
@@ -342,7 +372,8 @@ const GalleryItems = [
         "date": "Sep7-12 ",
         "category": "Cabins",
         "price": "$138 ",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "632c155b2c4774f05c36eeaa",
@@ -353,7 +384,8 @@ const GalleryItems = [
         "date": "Sep 1-6",
         "category": "Cabins",
         "price": "$36 ",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "633c155b2c4774f05c36eeaa",
@@ -364,7 +396,8 @@ const GalleryItems = [
         "date": "Sep 7-12 ",
         "category": "Cabins",
         "price": "$63",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "634c155b2c4774f05c36eeaa",
@@ -375,7 +408,8 @@ const GalleryItems = [
         "date": "Sep 10-15 ",
         "category": "Cabins",
         "price": "$290",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "635c155b2c4774f05c36eeaa",
@@ -386,7 +420,8 @@ const GalleryItems = [
         "date": "Sep 11-16 ",
         "category": "Cabins",
         "price": "$163",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "636c155b2c4774f05c36eeaa",
@@ -397,7 +432,8 @@ const GalleryItems = [
         "date": "Sep 1-6",
         "category": "Cabins",
         "price": "$72 ",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     //......................... OMG! Category..........
 
@@ -410,7 +446,8 @@ const GalleryItems = [
         "date": "Jan 22-27 ",
         "category": "OMG!",
         "price": "$247",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.9'
     },
     {
         "_id": "638c155b2c4774f05c36eeaa",
@@ -421,7 +458,8 @@ const GalleryItems = [
         "date": "Oct 1-6  ",
         "category": "OMG!",
         "price": "$169",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.9'
     },
     {
         "_id": "639c155b2c4774f05c36eeaa",
@@ -432,7 +470,8 @@ const GalleryItems = [
         "date": "Dec 16-21 ",
         "category": "OMG!",
         "price": "$190",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.9'
     },
     {
         "_id": "640c155b2c4774f05c36eeaa",
@@ -443,7 +482,8 @@ const GalleryItems = [
         "date": "Jan 9-16  ",
         "category": "OMG!",
         "price": "$513",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.9'
     },
     {
         "_id": "641c155b2c4774f05c36eeaa",
@@ -454,7 +494,8 @@ const GalleryItems = [
         "date": "Sep 1-6  ",
         "category": "OMG!",
         "price": "$124",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.9'
     },
     {
         "_id": "642c155b2c4774f05c36eeaa",
@@ -465,7 +506,8 @@ const GalleryItems = [
         "date": "Sep 1-8 ",
         "category": "OMG!",
         "price": "$22",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.9'
     },
     {
         "_id": "643c155b2c4774f05c36eeaa",
@@ -476,7 +518,8 @@ const GalleryItems = [
         "date": "Sep 10-15 ",
         "category": "OMG!",
         "price": "$806",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.9'
     },
     {
         "_id": "644c155b2c4774f05c36eeaa",
@@ -487,7 +530,8 @@ const GalleryItems = [
         "date": "Nov 18-24 ",
         "category": "OMG!",
         "price": "$820",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.9'
     },
     {
         "_id": "645c155b2c4774f05c36eeaa",
@@ -498,7 +542,8 @@ const GalleryItems = [
         "date": "Jan 11-17  ",
         "category": "OMG!",
         "price": "$261",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.9'
     },
     {
         "_id": "646c155b2c4774f05c36eeaa",
@@ -509,7 +554,8 @@ const GalleryItems = [
         "date": "Sep 1-6 ",
         "category": "OMG!",
         "price": "$653",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.9'
     },
     {
         "_id": "647c155b2c4774f05c36eeaa",
@@ -520,7 +566,8 @@ const GalleryItems = [
         "date": "Jan 1-6  ",
         "category": "OMG!",
         "price": "$42",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.9'
     },
     {
         "_id": "648c155b2c4774f05c36eeaa",
@@ -531,7 +578,8 @@ const GalleryItems = [
         "date": "Sep 1-6 ",
         "category": "OMG!",
         "price": "$66",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.9'
     },
 
     //......................... Islands Category..........
@@ -544,7 +592,8 @@ const GalleryItems = [
         "date": "Sep 1-6 ",
         "category": "Islands",
         "price": "$280",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.9'
     },
     {
         "_id": "650c155b2c4774f05c36eeaa",
@@ -555,7 +604,8 @@ const GalleryItems = [
         "date": "Sep 1-6  ",
         "category": "Islands",
         "price": "$456",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.9'
     },
     {
         "_id": "651c155b2c4774f05c36eeaa",
@@ -566,7 +616,8 @@ const GalleryItems = [
         "date": "Sep 1-6 ",
         "category": "Islands",
         "price": "$571",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.7'
     },
     {
         "_id": "652c155b2c4774f05c36eeaa",
@@ -577,7 +628,8 @@ const GalleryItems = [
         "date": "Sep 1-6 ",
         "category": "Islands",
         "price": "$98",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.7'
     },
     {
         "_id": "653c155b2c4774f05c36eeaa",
@@ -588,7 +640,8 @@ const GalleryItems = [
         "date": "Sep 1-6  ",
         "category": "Islands",
         "price": "$571",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.7'
     },
     {
         "_id": "654c155b2c4774f05c36eeaa",
@@ -599,7 +652,8 @@ const GalleryItems = [
         "date": "Sep 1-6  ",
         "category": "Islands",
         "price": "$1484",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.7'
     },
     {
         "_id": "655c155b2c4774f05c36eeaa",
@@ -610,7 +664,8 @@ const GalleryItems = [
         "date": "Sep 2-7 ",
         "category": "Islands",
         "price": "$98",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.7'
     },
     {
         "_id": "656c155b2c4774f05c36eeaa",
@@ -621,7 +676,8 @@ const GalleryItems = [
         "date": "Sep 1-6 ",
         "category": "Islands",
         "price": "$531",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.7'
     },
     {
         "_id": "657c155b2c4774f05c36eeaa",
@@ -632,7 +688,8 @@ const GalleryItems = [
         "date": "Sep 1-6 ",
         "category": "Islands",
         "price": "$634",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.7'
     },
     {
         "_id": "658c155b2c4774f05c36eeaa",
@@ -643,7 +700,8 @@ const GalleryItems = [
         "date": "Sep 1-6  ",
         "category": "Islands",
         "price": "$255",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.1'
     },
     {
         "_id": "659c155b2c4774f05c36eeaa",
@@ -654,7 +712,8 @@ const GalleryItems = [
         "date": "Sep 1-6  ",
         "category": "Islands",
         "price": "$1233",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'3.2'
     },
     {
         "_id": "660c155b2c4774f05c36eeaa",
@@ -665,7 +724,8 @@ const GalleryItems = [
         "date": "Sep 1-6 ",
         "category": "Islands",
         "price": "$456",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'3.1'
     },
 
     //......................... Amazing views Category..........
@@ -678,7 +738,8 @@ const GalleryItems = [
         "date": "Sep 1-6  ",
         "category": "Amazing views",
         "price": "$493",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'5.1'
     },
     {
         "_id": "662c155b2c4774f05c36eeaa",
@@ -689,7 +750,8 @@ const GalleryItems = [
         "date": "Sep 1-6 ",
         "category": "Amazing views",
         "price": "$1139",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'5.00'
     },
     {
         "_id": "663c155b2c4774f05c36eeaa",
@@ -700,7 +762,8 @@ const GalleryItems = [
         "date": "21-26 ",
         "category": "Amazing views",
         "price": "$114",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.9'
     },
     {
         "_id": "664c155b2c4774f05c36eeaa",
@@ -711,7 +774,8 @@ const GalleryItems = [
         "date": "Sep 24-29  ",
         "category": "Amazing views",
         "price": "$209",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.8'
     },
     {
         "_id": "665c155b2c4774f05c36eeaa",
@@ -722,7 +786,8 @@ const GalleryItems = [
         "date": "Sep 6-13 ",
         "category": "Amazing views",
         "price": "$44",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.7'
     },
     {
         "_id": "666c155b2c4774f05c36eeaa",
@@ -733,7 +798,8 @@ const GalleryItems = [
         "date": "Sep 4-9 ",
         "category": "Amazing views",
         "price": "$122",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.6'
     },
     {
         "_id": "667c155b2c4774f05c36eeaa",
@@ -744,7 +810,8 @@ const GalleryItems = [
         "date": "Oct 13-18  ",
         "category": "Amazing views",
         "price": "$89",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.5'
     },
     {
         "_id": "668c155b2c4774f05c36eeaa",
@@ -755,7 +822,8 @@ const GalleryItems = [
         "date": "Sep 1-6 ",
         "category": "Amazing views",
         "price": "$410",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.4'
     },
     {
         "_id": "669c155b2c4774f05c36eeaa",
@@ -766,7 +834,8 @@ const GalleryItems = [
         "date": "Sep 1-6 ",
         "category": "Amazing views",
         "price": "$92",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.3'
     },
     {
         "_id": "670c155b2c4774f05c36eeaa",
@@ -777,7 +846,8 @@ const GalleryItems = [
         "date": "Sep 2-8 ",
         "category": "Amazing views",
         "price": "$58",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.2'
     },
     {
         "_id": "671c155b2c4774f05c36eeaa",
@@ -788,7 +858,8 @@ const GalleryItems = [
         "date": "Sep 6-11 ",
         "category": "Amazing views",
         "price": "$193",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.1'
     },
     {
         "_id": "672c155b2c4774f05c36eeaa",
@@ -799,8 +870,10 @@ const GalleryItems = [
         "date": "Sep 1-6  ",
         "category": "Amazing views",
         "price": "$111",
-        "subCategory": "night"
+        "subCategory": "night",
+        "rating":'4.7'
     },
+   
 
 ]
 

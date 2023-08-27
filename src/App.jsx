@@ -1,5 +1,4 @@
 
-import './App.css'
 import Category from './Pages/Category/Category'
 
 function App() {
@@ -7,7 +6,7 @@ function App() {
 
   return (
     <>
-    <div>
+    <div className='max-w-screen-xl mx-auto'>
       <Category></Category>
     
     </div>
