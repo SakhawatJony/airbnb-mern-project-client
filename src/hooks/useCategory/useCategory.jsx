@@ -6,7 +6,7 @@ const useCategory = () => {
          const [nature, setNature] = useState([]);
     const [loading, setLoading] = useState(true);
     useEffect(() => {
-        fetch('category.json')
+        fetch('https://airbnb-mern-project-server.vercel.app/category')
             .then(res => res.json())
             .then(data => {
                 setNature(data);
